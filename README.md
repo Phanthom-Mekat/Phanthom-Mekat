@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Phanthom-Mekat
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...something interesting
 - 📫 How to reach me ...jahidulhossainmekat@gmail.com
 
