@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/mekat" target="blank"><img src="https://img.shields.io/twitter/follow/mekat?logo=twitter&style=for-the-badge" alt="mekat" /></a> </p>
 
-- 🔭 I’m currently working on [https://github.com/Phanthom-Mekat/Diabetic_patients_health_monitoring_system_web_app](https://github.com/Phanthom-Mekat/Diabetic_patients_health_monitoring_system_web_app)
+-  I’m currently working on [https://github.com/samZero-0/University_Student_Food_Platform_Project](https://github.com/samZero-0/University_Student_Food_Platform_Project)
 
-- 🌱 I’m currently learning **Frameworks**
+-  I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Phanthom-Mekat](https://github.com/Phanthom-Mekat)
+-  All of my projects are available at [https://github.com/Phanthom-Mekat](https://github.com/Phanthom-Mekat)
 
-- 📫 How to reach me **jahidulhossainmekat@gmail.com**
+-  How to reach me **jahidulhossainmekat@gmail.com**  📫
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
