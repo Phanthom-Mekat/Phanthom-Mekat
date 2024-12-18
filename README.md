@@ -14,6 +14,7 @@
 -  All of my projects are available at [https://github.com/Phanthom-Mekat](https://github.com/Phanthom-Mekat)
 
 -  How to reach me **jahidulhossainmekat@gmail.com**  📫
+-  my research at [ieee](https://ieeexplore.ieee.org/document/10773093) [researchgate](https://www.researchgate.net/publication/386882989_Smart_Glasses_Integrating_Bone_Conduction_and_Real-Time_Image_Processing_for_Impairment_Assistance)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mekat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mekat" height="30" width="40" /></a>
