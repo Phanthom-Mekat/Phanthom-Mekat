@@ -8,7 +8,6 @@
 <p align="left"> <a href="https://twitter.com/mekat" target="blank"><img src="https://img.shields.io/twitter/follow/mekat?logo=twitter&style=for-the-badge" alt="mekat" /></a> </p>
 
 -  I’m currently working on [https://github.com/samZero-0/University_Student_Food_Platform_Project](https://github.com/samZero-0/University_Student_Food_Platform_Project)
-
 -  I’m currently learning **MERN**
 -  All of my projects are available at [https://github.com/Phanthom-Mekat](https://github.com/Phanthom-Mekat)
 -  How to reach me **jahidulhossainmekat@gmail.com**  📫
