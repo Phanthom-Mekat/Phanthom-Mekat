@@ -8,21 +8,18 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=phanthom-mekat&label=Profile%20views&color=38bdf8&style=flat-square" alt="phanthom-mekat" />
 </p>
+---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=phanthom-mekat&label=Profile%20views&color=0e75b6&style=flat" alt="phanthom-mekat" /> </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jahidul-hossain-mekat-157874228/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://img.shields.io/badge/Trophies-Explore-orange?style=for-the-badge&logo=github" alt="Trophies" />
-  </a>
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phanthom-mekat" alt="phanthom-mekat" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/mekat" target="blank"><img src="https://img.shields.io/twitter/follow/mekat?logo=twitter&style=for-the-badge" alt="mekat" /></a> </p>
 
 ---
 
-### 🚀 About Me:
-- 🌱 I’m currently learning **AI/ML**
-- 🏗️ I’m working on [University_Student_Food_Platform_Project (AI Integrated Diet)](https://github.com/samZero-0/University_Student_Food_Platform_Project)
+###  About Me:
+-  I’m currently learning **AI/ML**
+-  I’m working on [University_Student_Food_Platform_Project (AI Integrated Diet)](https://github.com/samZero-0/University_Student_Food_Platform_Project)
 - 🔗 Check out my [Portfolio](https://mekat.netlify.app/)
 - 📫 Reach me at **jahidulhossainmekat@gmail.com**
 - 📝 Research Work: [IEEE](https://ieeexplore.ieee.org/document/10773093) | [ResearchGate](https://www.researchgate.net/publication/386882989_Smart_Glasses_Integrating_Bone_Conduction_and_Real-Time_Image_Processing_for_Impairment_Assistance)
@@ -50,7 +47,7 @@
 <h2 align="center">🛠️ My Skill Set</h2>
 <table>
   <tr>
-    <td valign="top" width="33%">
+    <td valign="top" width="50%">
       <h3 align="center" style="color: #38bdf8;">Frontend</h3>
       <div align="center">
         <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="50" />
@@ -60,7 +57,7 @@
         <img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" width="50" />
       </div>
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="50%">
       <h3 align="center" style="color: #38bdf8;">Backend</h3>
       <div align="center">
         <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" width="50" />
@@ -69,7 +66,7 @@
         <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" width="50" />
       </div>
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="50%">
       <h3 align="center" style="color: #38bdf8;">Others</h3>
       <div align="center">
         <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="40" />
@@ -96,3 +93,6 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Dev Quote" />
 </p>
+---
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Phanthom-Mekat&limit=5&theme=merko&combine_all_yearly_contributions=true)
