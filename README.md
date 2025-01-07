@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=phanthom-mekat&label=Profile%20views&color=38bdf8&style=flat-square" alt="phanthom-mekat" />
 </p>
----
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phanthom-mekat&label=Profile%20views&color=0e75b6&style=flat" alt="phanthom-mekat" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phanthom-mekat" alt="phanthom-mekat" /></a> </p>
@@ -101,6 +101,3 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Dev Quote" />
 </p>
----
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Phanthom-Mekat&limit=5&theme=merko&combine_all_yearly_contributions=true)
