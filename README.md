@@ -89,7 +89,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Phanthom-Mekat&theme=blueberry&hide_border=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Phanthom-Mekat&theme=blueberry&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Phanthom-Mekat" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phanthom-Mekat&theme=blueberry&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
