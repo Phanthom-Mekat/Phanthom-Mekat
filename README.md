@@ -1,5 +1,5 @@
 <div align="center" style="background: linear-gradient(to bottom, #1e293b, #0f172a); padding: 20px; border-radius: 10px;">
-  <img height="200" width="100%" src="https://i.postimg.cc/66RSsKBW/Gradient-Colorful-Minimalist-Coming-Soon-Banner.png" style="border-radius: 10px;" />
+  <img height="400" width="100%" src="https://i.postimg.cc/66RSsKBW/Gradient-Colorful-Minimalist-Coming-Soon-Banner.png" style="border-radius: 10px;" />
 </div>
 
 <h1 align="center" style="font-family: 'Arial Black', sans-serif; color: #38bdf8;">Hi, I'm Jahidul Hossain Mekat</h1>
