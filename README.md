@@ -3,7 +3,6 @@
 <!--   <img height="400" width="100%" src="https://i.postimg.cc/66RSsKBW/Gradient-Colorful-Minimalist-Coming-Soon-Banner.png" style="border-radius: 10px;" /> -->
 </div>
 
-
 <h1 align="center" style="font-family: 'Arial Black', sans-serif; color: #38bdf8;">Hi, I'm Jahidul Hossain Mekat</h1>
 <h2 align="center" style="font-family: 'Arial', sans-serif; color: #facc15;">Fullstack Developer | AI/ML Enthusiast | Bangladesh 🇧🇩</h2>
 
