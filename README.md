@@ -24,7 +24,6 @@
 - 📝 Research Work: [IEEE](https://ieeexplore.ieee.org/document/10773093) | [ResearchGate](https://www.researchgate.net/publication/386882989_Smart_Glasses_Integrating_Bone_Conduction_and_Real-Time_Image_Processing_for_Impairment_Assistance)
 
 ---
-
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/jahidul-hossain-mekat-157874228/" target="_blank">
