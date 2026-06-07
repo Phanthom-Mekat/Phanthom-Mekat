@@ -2,7 +2,7 @@
   <img height="200" width="100%" src="https://i.postimg.cc/Y97MxsS8/WEB-Full-Stack-Developer.jpg" style="border-radius: 10px;" />
 </div>
 
-<h1 align="center" style="font-family: 'Arial Black', sans-serif; color: #38bdf8;">Hi, I'm Jahidul Hossain Mekat 👋</h1>
+<h1 align="center" style="font-family: 'Arial Black', sans-serif; color: #38bdf8;">Hi, I'm Jahidul Hossain Mekat </h1>
 <h3 align="center" style="color: #facc15;">Full-Stack AI Engineer @ Oppora.ai &nbsp;|&nbsp; LLM Agents &amp; Applied ML &nbsp;|&nbsp; Dhaka, Bangladesh 🇧🇩</h3>
 
 <p align="center">
@@ -137,10 +137,6 @@ Co-authored peer-reviewed work in applied AI:
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Phanthom-Mekat&theme=nord_dark" alt="stats" />
   <img src="https://streak-stats.demolab.com/?user=Phanthom-Mekat&theme=blueberry&hide_border=false" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Phanthom-Mekat&theme=nord_dark" alt="repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Phanthom-Mekat&theme=nord_dark" alt="most used language" />
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Phanthom-Mekat&theme=nord_dark&utcOffset=6" alt="productive time" />
