@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://jahidulmekat.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-100F0D?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio" /></a>
+  <a href="https://mekat.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-100F0D?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/jahidul-hossain-mekat-157874228/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:jahidulhossainmekat@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://ieeexplore.ieee.org/document/10773093" target="_blank"><img src="https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE" /></a>
@@ -132,14 +132,18 @@ Co-authored peer-reviewed work in applied AI:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Phanthom-Mekat&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Phanthom-Mekat&theme=nord_dark" alt="profile summary" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Phanthom-Mekat&theme=nord_dark" alt="stats" />
   <img src="https://streak-stats.demolab.com/?user=Phanthom-Mekat&theme=blueberry&hide_border=false" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phanthom-Mekat&theme=blueberry&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Phanthom-Mekat&theme=nord_dark" alt="repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Phanthom-Mekat&theme=nord_dark" alt="most used language" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Phanthom-Mekat&theme=algolia&no-frame=true&column=7" alt="trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Phanthom-Mekat&theme=nord_dark&utcOffset=6" alt="productive time" />
 </p>
 
 ---
